@@ -1,6 +1,7 @@
 {
   "name": "manzinello/mailgo",
   "description": "a different mailto: and another tel:",
+  "homepage": "https://mailgo.js.org",
   "type": "magento2-module",
   "version": "0.8.5",
   "license": [
