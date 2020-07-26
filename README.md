@@ -2,7 +2,7 @@
 
 Mailgo module for Magento 2
 
-<https://mailgo.js.org>
+<https://mailgo.dev>
 
 ## Instructions
 

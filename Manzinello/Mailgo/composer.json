@@ -1,7 +1,7 @@
 {
   "name": "manzinello/mailgo",
   "description": "a new concept of mailto and tel links",
-  "homepage": "https://mailgo.js.org",
+  "homepage": "https://mailgo.dev",
   "type": "magento2-module",
   "version": "0.9.7",
   "license": [
