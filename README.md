@@ -4,6 +4,8 @@ Mailgo module for Magento 2
 
 <https://mailgo.dev>
 
+<https://marketplace.magento.com/manzinello-mailgo.html>
+
 ## Instructions
 
 Copy the folder `Manzinello` in `/app/code` and then
