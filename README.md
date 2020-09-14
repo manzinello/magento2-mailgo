@@ -2,27 +2,29 @@
 
 Mailgo module for Magento 2
 
-<https://mailgo.dev>
-
 <https://marketplace.magento.com/manzinello-mailgo.html>
 
-## Packagist
+<https://mailgo.dev>
 
-<https://packagist.org/packages/manzinello/mailgo>
+## Installation
+
+### Composer / Packagist
 
 ```
 composer require manzinello/mailgo
 ```
 
-## Instructions
+<https://packagist.org/packages/manzinello/mailgo>
 
-Copy the content of the repository in the folder
+### Manually
+
+Clone the repository (<https://github.com/manzinello/magento2-mailgo>) anche copy the content in the folder
 
 ```
 /app/code/Manzinello/Mailgo
 ```
 
-and then enable the extension
+## Enable the extension
 
 ```
 php bin/magento module:enable Manzinello_Mailgo
