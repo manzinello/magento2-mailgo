@@ -19,10 +19,16 @@
     "MIT"
   ],
   "keywords": [
-    "relevant",
-    "tags",
-    "go",
-    "here"
+    "mailto",
+    "mail",
+    "tel",
+    "callto",
+    "gmail",
+    "outlook",
+    "telegram",
+    "whatsapp",
+    "skype",
+    "yahoo"
   ],
   "require": {},
   "autoload": {
