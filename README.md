@@ -8,13 +8,19 @@ Mailgo module for Magento 2
 
 ## Instructions
 
-Copy the folder `Manzinello` in `/app/code` and then
+Copy the content of the repository in the folder
+
+```
+/app/code/Manzinello/Mailgo
+```
+
+and then enable the extension
 
 ```
 php bin/magento module:enable Manzinello_Mailgo
 ```
 
-and
+then
 
 ```
 php bin/magento setup:upgrade
@@ -23,5 +29,5 @@ php bin/magento setup:upgrade
 and maybe
 
 ```
-php bin/magento setup:static-content:deploy
+php bin/magento setup:static-content:deploy [...]
 ```
