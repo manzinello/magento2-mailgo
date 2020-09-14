@@ -11,6 +11,10 @@
       "homepage": "https://matteomanzinello.com"
     }
   ],
+  "support": {
+    "email": "matteo@manzinello.dev",
+    "issues": "https://github.com/manzinello/magento2-mailgo/issues"
+  },
   "license": [
     "MIT"
   ],
