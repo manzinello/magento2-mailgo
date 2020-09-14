@@ -6,6 +6,14 @@ Mailgo module for Magento 2
 
 <https://marketplace.magento.com/manzinello-mailgo.html>
 
+## Packagist
+
+<https://packagist.org/packages/manzinello/mailgo>
+
+```
+composer require manzinello/mailgo
+```
+
 ## Instructions
 
 Copy the content of the repository in the folder
