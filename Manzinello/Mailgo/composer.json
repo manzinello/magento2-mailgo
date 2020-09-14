@@ -4,8 +4,21 @@
   "homepage": "https://mailgo.dev",
   "type": "magento2-module",
   "version": "0.9.18",
+  "authors": [
+    {
+      "name": "Matteo Manzinello",
+      "email": "matteo@manzinello.dev",
+      "homepage": "https://matteomanzinello.com"
+    }
+  ],
   "license": [
     "MIT"
+  ],
+  "keywords": [
+    "relevant",
+    "tags",
+    "go",
+    "here"
   ],
   "require": {},
   "autoload": {
