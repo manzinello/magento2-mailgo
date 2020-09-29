@@ -18,11 +18,7 @@ composer require manzinello/mailgo
 
 ### Manually
 
-Clone the repository (<https://github.com/manzinello/magento2-mailgo>) anche copy the content in the folder
-
-```
-/app/code/Manzinello/Mailgo
-```
+Clone the repository (<https://github.com/manzinello/magento2-mailgo>) anche copy the content in the folder `/app/code/Manzinello/Mailgo`
 
 ## Enable the extension
 
@@ -39,5 +35,5 @@ php bin/magento setup:upgrade
 and maybe
 
 ```
-php bin/magento setup:static-content:deploy [...]
+php bin/magento setup:static-content:deploy
 ```
