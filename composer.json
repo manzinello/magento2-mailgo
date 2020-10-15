@@ -3,7 +3,7 @@
   "description": "a new concept of mailto and tel links",
   "homepage": "https://mailgo.dev",
   "type": "magento2-module",
-  "version": "0.9.18",
+  "version": "0.10.0",
   "authors": [
     {
       "name": "Matteo Manzinello",
@@ -28,7 +28,8 @@
     "telegram",
     "whatsapp",
     "skype",
-    "yahoo"
+    "yahoo",
+    "mailgo"
   ],
   "require": {},
   "autoload": {
