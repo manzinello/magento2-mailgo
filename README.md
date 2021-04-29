@@ -2,9 +2,7 @@
 
 Mailgo module for Magento 2
 
-<https://marketplace.magento.com/manzinello-mailgo.html>
-
-<https://mailgo.dev>
+<https://mailgo.dev/docs/magento/>
 
 ## Installation
 
